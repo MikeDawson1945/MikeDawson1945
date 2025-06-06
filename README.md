@@ -1,4 +1,4 @@
-👋 Hallo, ich bin Mike
+# 👋 Hallo, ich bin Mike
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin der Kopf hinter **CloudCrown Hosting** und **SNet Solutions**, wo ich mich mit viel Herzblut um Webhosting, Cloudlösungen und eigene Tools kümmere – alles auf Schweizer Boden 🇨🇭
