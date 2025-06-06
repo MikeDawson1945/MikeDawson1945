@@ -24,9 +24,12 @@ WordPress · Nextcloud · PHP · HTML/CSS · JS · JSON APIs
 Cloudflare · DNS · Monitoring · VS Code · Discord Bots
 ```
 
+---
+
 📬 Kontakt & Links
 🌐 Website: cloudcrown.ch
 🧪 Projekt: snet-solutions.ch (im Aufbau)
 📧 Mail: info@cloudcrown.ch
 💬 Discord: mikedawson
 
+---
